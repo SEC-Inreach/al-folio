@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 	<li>Tiffany Lewis (<a href="https://www.nasa.gov/goddard">NASA Goddard</a>)</li>
 	<li>Cindy Lin (<a href="https://www.snolab.ca/science/experiments/snoplus">SNOLAB</a>)</li>
  	<li>Jennifer Roloff (<a href="https://www.bnl.gov/ATLAS/">BNL</a>)</li>
- 	<li>Jacob Zettlemoyer (<a href="https://ceem.indiana.edu/index.html">Indiana</a>)</li>
+ 	<li>Jacob Zettlemoyer (<a href="https://neutrinophysics.fnal.gov/neutrino-division/">FNAL</a>)</li>
  </ul>
  <i>(*) current contacts.</i>
 </p>
