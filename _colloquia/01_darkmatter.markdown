@@ -2,11 +2,13 @@
 layout: page
 title: Dark Matter
 description: Big Questions in ... Dark Matter!
-img: /assets/img/12.jpg
+img: /assets/img/dm.png
 importance: 1
 ---
 
-Here, there should probably be some information about the speakers:
+<p>Here, there should probably be some information about the speakers:</p>
 
-Speaker 1: Caterina Doglioni (Lund)
+<p>
+Speaker 1: Caterina Doglioni (Lund)<br>
 Speaker 2: Chanda Prescod-Weinstein (New Hampshire)
+</p>
