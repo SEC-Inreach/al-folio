@@ -1,6 +1,6 @@
 ---
 layout: page
-title: neutrino physics
+title: neutrinos
 description: 20 November 2020
 img: /assets/img/5.jpg
 importance: 2
