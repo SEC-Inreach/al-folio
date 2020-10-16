@@ -150,7 +150,7 @@ enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
 enable_darkmode:          false
-show_social_icons:        false
+show_social_icons:        true
 
 # -----------------------------------------------------------------------------
 # Library versions
