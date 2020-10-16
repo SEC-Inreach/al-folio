@@ -2,7 +2,7 @@
 layout: page
 title: Neutrino Physics
 description: 
-img: /assets/img/3.jpg
+img: /assets/img/2.jpg
 importance: 2
 ---
 
