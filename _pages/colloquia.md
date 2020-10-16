@@ -2,7 +2,7 @@
 layout: page
 title: colloquia
 permalink: /colloquia/
-description: "Big Questions" colloqium series
+description: The Big Questions in Particle Physics colloquia series
 nav: true
 ---
 
