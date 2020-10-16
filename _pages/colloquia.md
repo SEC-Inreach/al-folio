@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Big Questions in ...
+title: colloquia
 permalink: /colloquia/
 description: "Big Questions" colloqium series
 nav: true
