@@ -2,7 +2,7 @@
 layout: page
 title: colloquia
 permalink: /colloquia/
-description: SEC-Inreach presents: "Big Questions in Particle Physics"
+description: SEC-Inreach presents ... "Big Questions in Particle Physics!"
 nav: true
 ---
 
