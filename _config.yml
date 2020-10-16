@@ -78,6 +78,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  colloquia:
+    output: true
+    permalink: /colloquia/:path/
 
 news_limit: 3
 
