@@ -6,6 +6,10 @@ description: "Big Questions" colloqium series
 nav: true
 ---
 
+The <a href="https://snowmass21.org/">Snowmass 2021</a> process provides an opportunity for the  particle physics community to come together to identify and document a scientific vision for the future of particle physics in the US and around the world during the next tenyears. But what about the future beyond that? Which questions will young researchers spend their careers working to address, and what are the best paths towards the answers?
+
+The <b>Big Questions in Particle Physics</b> colloqium series is trying to help early-career researchers reflect on the long-term future of particle physics. Each colloquim features a pair of speakers with different backgrounds, who will discuss comlementary approaches towards these Big Questions. 
+
 <div class="projects grid">
 
   {% assign sorted_colloquia = site.colloquia | sort: "importance" %}
