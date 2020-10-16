@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dark Matter
-description: Big Questions in ... Dark Matter!
+description: 
 img: /assets/img/dm.png
 importance: 1
 ---

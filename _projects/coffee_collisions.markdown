@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coffee Collisions
-description: Collide for a (virtual) coffee with another Snowmass participant!
+description: 
 img: /assets/img/12.jpg
 importance: 1
 ---
@@ -10,7 +10,7 @@ importance: 1
 
 <p>Participants will be matched based on shared interests, but across career stages, institutes and collaborations.</p>
 
-<p><h2>The sign-up period has closed! We are currently matching participants.</h2></p>
+<p><h2>The sign-up period has closed!<br>We are currently matching participants.</h2></p>
 
 <p>Conversation prompts ...</p>
 

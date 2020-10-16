@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neutrino Physics
-description: Big Questions in Neutrino Physics!
+description: 
 img: /assets/img/3.jpg
 importance: 2
 ---
