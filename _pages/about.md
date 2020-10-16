@@ -9,7 +9,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p>This is where a description of the SEC-Inreach group's raison d'etre should go.</p>
+<p>The SEC-Inreach group is interested in fostering opportunities for professional development and building cohesion within the early-career particle physics community. We hope to reach out to and engage with early-career physicists during the Snowmass 2021 process by providing opportunities for professional development and networking.</p>
 
 <p><h3>Active membership:</h3>
  <ul>
