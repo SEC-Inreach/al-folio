@@ -12,7 +12,7 @@ importance: 1
 
 <p><h2>The first round of collisions are currently taking place!</h2></p>
 
-<p><h3>In case you need inspiration, maybe try using some of our conversation prompts:</h3></p>
+<p><h4>In case you need inspiration, maybe try using some of our conversation prompts:</h4></p>
 
 <p>
 	<ul>
