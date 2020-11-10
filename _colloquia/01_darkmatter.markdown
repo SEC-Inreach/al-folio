@@ -2,7 +2,7 @@
 layout: page
 title: dark matter
 description: 30 October 2020
-img: /assets/img/7.jpg
+img: /assets/img/questions_1.png
 importance: 1
 ---
 
