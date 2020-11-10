@@ -8,7 +8,7 @@ importance: 2
 
 <p><a href="https://indico.fnal.gov/e/bigquestions02">https://indico.fnal.gov/e/bigquestions02</a></p>
 
-<p>Some info about the speakers ...</p>
+<!--<p>Some info about the speakers ...</p>-->
 
 <p>
 Speaker 1: Erica Caden (SNOLAB)<br>
