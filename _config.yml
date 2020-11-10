@@ -48,7 +48,7 @@ blogger_url: # your blogger URL
 
 contact_note: > # You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-KDHSD2YF0X # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -145,7 +145,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
