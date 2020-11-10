@@ -21,7 +21,7 @@ importance: 1
 		<li><i>"What questions do you hope we answer in the next 40 years?"</i></li>
 		<li><i>"Are you involved in any outreach projects?"</i></li>
 		<li><i>"What was the last paper you read?"</i></li>
-		<li><i>"Do you think the coffee at FNAL or CERN is better?</i></li>
+		<li><i>"Do you think the coffee at FNAL or CERN is better?"</i></li>
 	</ul>
 </p>
 
