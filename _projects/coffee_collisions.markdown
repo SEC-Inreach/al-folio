@@ -2,7 +2,7 @@
 layout: page
 title: Coffee Collisions
 description: 
-img: /assets/img/12.jpg
+img: /assets/img/coffee_1.png
 importance: 1
 ---
 
