@@ -2,7 +2,7 @@
 layout: page
 title: neutrinos
 description: 20 November 2020
-img: /assets/img/5.jpg
+img: /assets/img/questions_2.png
 importance: 2
 ---
 
