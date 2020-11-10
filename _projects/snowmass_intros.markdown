@@ -2,7 +2,7 @@
 layout: page
 title: Snowmass Introductions
 description: What is Snowmass?
-img: /assets/img/3.jpg
+img: /assets/img/p5_logo.png
 importance: 2
 ---
 
