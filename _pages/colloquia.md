@@ -6,9 +6,9 @@ description: SEC-Inreach presents ... "Big Questions in Particle Physics!"
 nav: true
 ---
 
-The <a href="https://snowmass21.org/">Snowmass 2021</a> process provides an opportunity for the  particle physics community to come together to identify and document a scientific vision for the future of particle physics in the US and around the world during the next tenyears. But what about the future beyond that? Which questions will young researchers spend their careers working to address, and what are the best paths towards the answers?
+<p>The <a href="https://snowmass21.org/">Snowmass 2021</a> process provides an opportunity for the  particle physics community to come together to identify and document a scientific vision for the future of particle physics in the US and around the world during the next ten years. But what about the future beyond that? Which questions will young researchers spend their careers working to address, and what are the best paths towards the answers?</p>
 
-The <b>Big Questions in Particle Physics</b> colloqium series is trying to help early-career researchers reflect on the long-term future of particle physics. Each colloquim features a pair of speakers with different backgrounds, who will discuss comlementary approaches towards these Big Questions. 
+<p>The <b>Big Questions in Particle Physics</b> colloquium series is trying to help early-career researchers reflect on the long-term future of particle physics. Each colloquium features a pair of speakers with different backgrounds, who will discuss complementary views of these Big Questions. </p>
 
 <div class="projects grid">
 
